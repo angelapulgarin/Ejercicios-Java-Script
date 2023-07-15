@@ -1,3 +1,4 @@
+
 let nombre = prompt("Ingesa tu nombre: ");
 let edad = prompt("Ingresa tu edad: ");
 
